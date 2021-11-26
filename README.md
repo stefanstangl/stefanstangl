@@ -1,4 +1,5 @@
 ### Hi there 👋
+Machine Learning student at Lucerne University of Applied Sciences
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanstangl&layout=compact&theme=github_dark)
 ](https://github.com/stefanstangl/github-readme-stats)
